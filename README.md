@@ -4,4 +4,4 @@
 
 ## Список полезных видеороликов на YouTube
 
-- [x] [01. Подготовка к JavaScript собеседованию](https://youtu.be/M_pclb-58ZY)
+- [x] [01. Подготовка к JavaScript собеседованию | Vladilen Minin](https://youtu.be/M_pclb-58ZY)
